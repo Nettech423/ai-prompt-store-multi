@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Instagram Caption Generator",
+    "description": "Generate viral Instagram captions from a short photo description.",
+    "price_display": "$50",
+    "price_id": "price_1RuMCH1zNwwo8DDHpZ9pWjI7"
+  },
+  {
+    "id": "2",
+    "name": "Startup Pitch Deck Prompt",
+    "description": "Create a persuasive pitch deck outline for investors.",
+    "price_display": "$50",
+    "price_id": "price_1RuMCr1zNwwo8DDHZMMwUgXl"
+  },
+  {
+    "id": "3",
+    "name": "AI-Powered Blog Post Creator",
+    "description": "Generate a full-length blog post from a short brief.",
+    "price_display": "$50",
+    "price_id": "price_1RuSQZ1zNwwo8DDHgEClm3lv"
+  }
+]
